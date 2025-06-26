@@ -1,0 +1,91 @@
+body {
+    font-family: sans-serif;
+    display: block;
+    justify-content: space-between;
+    background-image: linear-gradient(rgb(0, 191, 255), rgb(89, 89, 235));
+}
+h1, h2, h3, h4{
+    text-align: center;
+}
+p{
+    font-size:20px;
+    text-align: center;
+}
+main{
+    background-color: rgb(49, 49, 236);
+}
+footer{
+    background-color: rgb(89, 89, 235);
+    border: 5px solid rgb(176, 176, 255);
+    border-radius: 10px;
+}
+header{
+    background-color: rgb(184, 125, 239);
+}
+h5{
+    text-align: center;
+}
+h3{
+    color: lightskyblue;
+}
+.background{
+    border-bottom:3px solid lightskyblue;
+}
+img{
+    border: 2px solid rgb(133, 133, 253);
+    border-radius: 10px;
+}
+.SBSD{
+    text-align: center;
+}
+.comeback{
+    font-size: 20px;
+    text-decoration: none;
+    color: brown;
+    border: 2px dotted red;
+    border-radius: 5px;
+}
+.ager{
+    text-align: center;
+}
+.thenoob{
+    position:relative;
+    bottom:-280px;
+    left: 200px;
+    color: blue
+}
+.CI{
+    position: relative;
+    top: 200px;
+    left: 100px;
+    color: rgb(215, 50, 50);
+}
+.DvN{
+    position: relative;
+    top: 150px;
+    left: 200px;
+    color: slategray;
+}
+.WI{
+    position: relative;
+    top: 350px;
+    left: 20px;
+    color: rgb(90, 59, 0);
+}
+.TD{
+    position: relative;
+    top: 360px;
+    left: 150px;
+    color: white;
+}
+.NTA{
+    position: relative;
+    top: 80px;
+    left: 20px;
+    color: skyblue;
+}
+.DD{
+    position: relative;
+    top: 240px;
+    left: -8px;
+}
