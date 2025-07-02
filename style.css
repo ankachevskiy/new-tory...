@@ -1,16 +1,16 @@
 body {
     font-family: sans-serif;
     background-color: black;
-    text-align: center;
 }
 header{
     background-color: #5c5555;
+    text-align: center;
 }
 main{
     background-color:#03020c;
 }
 footer{
-    background-color: #2f422f;
+    background-color: #04030c;
 }
 nav{
     justify-content: space-between;
